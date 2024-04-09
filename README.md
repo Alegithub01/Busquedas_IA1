@@ -40,11 +40,11 @@ Esto abrirá la ventana principal de la aplicación desde donde podrás acceder 
 - `image.png`: Archivo de imagen utilizado en la interfaz gráfica.
 - `mapa.png`: Archivo de imagen utilizado en la interfaz gráfica.
 
-### incisoA
+### IncisoA
 - `generar_mapa.py`: Contiene la función para generar un mapa aleatorio de nodos y aristas.
 - `algoritmo_coloracion.py`: Implementación del algoritmo de coloración voraz.
 - `visualizacion.py`: Funciones para visualizar el mapa inicial y final.
 - `main.py`: Archivo principal para el inciso A.
 
 
-### incisoB
+### IncisoB
