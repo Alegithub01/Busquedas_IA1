@@ -14,24 +14,24 @@ Antes de ejecutar este proyecto, asegúrate de tener instaladas las siguientes h
 ## Instalación
 
 1. Clona este repositorio en tu máquina local:
-
+```
 git clone https://github.com/Alegithub01/Busquedas_IA1.git
-
+```
 2. Navega hasta el directorio del proyecto:
-
-cd IA_Busquedas
-
+```
+cd Busquedas_IA1
+```
 3. Instala las dependencias utilizando pip:
-
+```
 pip install -r requeriments.txt
-
+```
 
 ## Uso
 
 Para ejecutar la interfaz gráfica, simplemente ejecuta el script `start.py`:
-
+```
 python start.py o python3 start.py
-
+```
 Esto abrirá la ventana principal de la aplicación desde donde podrás acceder a las diferentes funcionalidades.
 
 ## Estructura del Proyecto
