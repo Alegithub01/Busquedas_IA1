@@ -17,13 +17,13 @@ def coloracion_voraz(graph, colores):
         else:
             color = colores[iteraciones % len(colores)]
             cambios += 1
-        iteraciones += 1  # Incrementar aquí para cada nodo evaluado
+        iteraciones += 1  
         coloreo[nodo] = color
     costo = iteraciones + cambios
     
     # Evaluar si la búsqueda es completa y óptima
     completo = "Sí" if len(coloreo) == len(nodos) else "No"
-    optimo = "No"  # Aquí puedes incluir la lógica para evaluar si es óptimo
+    optimo = "No" 
 
     # Calcular el costo temporal y espacial
     costo_temporal = iteraciones

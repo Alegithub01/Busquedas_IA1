@@ -78,14 +78,14 @@ def mostrar_mapa():
         num_colores = int(entry_colores.get())
 
         # Ejecutar main.py con los argumentos proporcionados
-        proceso = Popen(["python3", "incisoA/main.py", str(num_regiones), str(num_colores)])
+        proceso = Popen(["python3", "Mapa/main.py", str(num_regiones), str(num_colores)])
         proceso.wait()
 
 
 def mostrar_inciso_b():
-    ventana_inciso_b = tk.Toplevel()
-    ventana_inciso_b.title("Inciso B")
-    # Aquí agregar la funcionalidad para el inciso B
+    proceso = Popen(["python3", "TresEnRaya/tresenraya_minimax.py"])
+    proceso.wait()
+    
 
 # Crear ventana principal
 ventana = tk.Tk()

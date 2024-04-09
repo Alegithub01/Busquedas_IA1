@@ -50,5 +50,4 @@ Esto abrirá la ventana principal de la aplicación desde donde podrás acceder 
 - `visualizacion.py`: Funciones para visualizar el mapa inicial y final.
 - `main.py`: Archivo principal para el inciso A.
 
-
 ### IncisoB
