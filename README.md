@@ -30,7 +30,11 @@ pip install -r requeriments.txt
 
 Para ejecutar la interfaz gráfica, simplemente ejecuta el script `start.py`:
 ```
-python start.py o python3 start.py
+python start.py
+```
+ó
+```
+python3 start.py
 ```
 Esto abrirá la ventana principal de la aplicación desde donde podrás acceder a las diferentes funcionalidades.
 
