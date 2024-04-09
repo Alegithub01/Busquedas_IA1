@@ -23,7 +23,7 @@ cd IA_Busquedas
 
 3. Instala las dependencias utilizando pip:
 
-pip install -r requirements.txt
+pip install -r requeriments.txt
 
 
 ## Uso
