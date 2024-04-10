@@ -51,3 +51,4 @@ Esto abrirá la ventana principal de la aplicación desde donde podrás acceder 
 - `main.py`: Archivo principal para el inciso A.
 
 ### IncisoB
+-  `tresenraya_minimax.py`: Contiene la implementación del juego Tres en Raya utilizando el algoritmo Minimax para la búsqueda del mejor movimiento por parte de la inteligencia artificial.
